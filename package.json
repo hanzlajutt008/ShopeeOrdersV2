@@ -1,0 +1,23 @@
+{
+  "name": "shopeeordersv2",
+  "version": "1.0.0",
+  "description": "Project to fetch orders from Shopee API V2",
+  "main": "shopee_orders_v2.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hanzlajutt008/ShopeeOrdersV2.git"
+  },
+  "keywords": [
+    "nodejs",
+    "shopee"
+  ],
+  "author": "Hanzla Jutt",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hanzlajutt008/ShopeeOrdersV2/issues"
+  },
+  "homepage": "https://github.com/hanzlajutt008/ShopeeOrdersV2#readme"
+}

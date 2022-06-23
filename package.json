@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/hanzlajutt008/ShopeeOrdersV2#readme",
   "dependencies": {
+    "axios": "^0.27.2",
     "dotenv": "^16.0.1",
     "mssql": "^8.1.2"
   }
